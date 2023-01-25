@@ -1,0 +1,21 @@
+name: base
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - mamba==1.0.0
+  - conda
+  - pip
+  - fastai
+  - ca-certificates
+  - certifi
+  - openssl
+  - nbdev
+  - jupyter
+  - fastbook
+  - numpy
+  - pillow
+  - pandas
+  - pyarrow
+prefix: /Users/josephtummon/mambaforge
