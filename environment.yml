@@ -1,21 +1,7 @@
-name: base
+name: comp30380
 channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=3.10
-  - mamba==1.0.0
-  - conda
-  - pip
-  - fastai
-  - ca-certificates
-  - certifi
-  - openssl
-  - nbdev
-  - jupyter
-  - fastbook
-  - numpy
-  - pillow
-  - pandas
-  - pyarrow
-prefix: /Users/josephtummon/mambaforge
+  - python=3.9
+prefix: /Users/josephtummon/mambaforge/envs/comp30380
